@@ -8,11 +8,11 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link active text-light" > <route-link to="/HomeView">Home </route-link></a>
+                  <a class="nav-link active text-custom2" > <router-link to="/HomeView">Home </router-link></a>
                 </li>
 
                     <li class="nav-item">
-                        <a class="nav-link active text-custom" > <router-link to="/ShoopView">Shop </router-link> </a>
+                        <a class="nav-link active text-custom2" > <router-link to="/ShopView">Shop </router-link> </a>
                     </li>
 
                 </ul>
@@ -20,7 +20,7 @@
         </div>
     </nav>
 
-    <route-view/>
+    <router-view/>
 </template>
 
 <script>

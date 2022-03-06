@@ -35,17 +35,17 @@
             <p>THIS IS JUST A PLACE HOLDER. <br>2023</p>
           </div>
           <div class="col-md-5 p-3">
-            <img src="../assets/img3.jpg" class="img-fluid">
+            <img src="../assets/video-img1.webp" class="img-fluid">
             <p>THIS IS JUST A PLACE HOLDER. <br>2023</p>
           </div>
         </div>
         <div class="row">
           <div class="col-md-5 p-3">
-            <img src="../assets/img2.jpg" class="img-fluid">
+            <img src="../assets/video-img2.webp" class="img-fluid">
             <p>THIS IS JUST A PLACE HOLDER. <br>2023</p>
           </div>
           <div class="col-md-5 p-3">
-            <img src="../assets/img1.jpg" class="img-fluid">
+            <img src="../assets/video-img3.webp" class="img-fluid">
             <p>THIS IS JUST A PLACE HOLDER. <br>2023</p>
           </div>
         </div>
