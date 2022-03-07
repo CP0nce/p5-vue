@@ -15,7 +15,7 @@
               </h6>
               <div class="row">
                 <div class="col">
-                  <a class="nav-link text-custom2" > <router-link to="/HomeView">Home </router-link></a>
+                  <a class="nav-link text-custom2" > <router-link to="/">Home </router-link></a>
                 </div>
               </div>
               <div class="row">

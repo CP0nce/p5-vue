@@ -8,7 +8,7 @@
             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link active text-custom2" > <router-link to="/HomeView">Home </router-link></a>
+                  <a class="nav-link active text-custom2" > <router-link to="/">Home </router-link></a>
                 </li>
 
                     <li class="nav-item">
